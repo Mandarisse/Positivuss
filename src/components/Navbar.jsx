@@ -5,7 +5,7 @@ import { HiX } from "react-icons/hi";
 
 import logoImage from "../assets/Frame 9.png";
 import Button from "./ui/Button";
-import { navbarLinks } from "../data";
+import { navbarLinks } from "../Data";
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);

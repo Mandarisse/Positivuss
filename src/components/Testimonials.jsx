@@ -2,7 +2,7 @@ import React, { useRef, useEffect, useState } from 'react';
 import SectionHeading from './ui/SectionHeading';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
-import { testimonials } from '../data';
+import { testimonials } from '../Data';
 import 'swiper/css/navigation';
 import { FaArrowRight, FaArrowLeft } from 'react-icons/fa6';
 import { Navigation } from 'swiper/modules';

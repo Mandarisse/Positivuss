@@ -10,16 +10,18 @@ import Team from "../components/Team";
 import Testimonials from "../components/Testimonials";
 import Footer from "../components/Footer";
 
-const Contact = () => {
+const aboutus = () => {
   return (
     <main>
       <Navbar />
-      <ContactUs />
       <Team />
-      <Testimonials />
+      <Services />  
+        <CaseStudies />
+      <CompanyLogos />
+      
       <Footer />
     </main>
   );
 };
 
-export default Contact;
+export default aboutus;

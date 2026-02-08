@@ -10,16 +10,16 @@ import Team from "../components/Team";
 import Testimonials from "../components/Testimonials";
 import Footer from "../components/Footer";
 
-const Contact = () => {
+const QA = () => {
   return (
     <main>
       <Navbar />
-      <ContactUs />
-      <Team />
+      <WorkingProcess />
       <Testimonials />
+      <CompanyLogos />
       <Footer />
     </main>
   );
 };
 
-export default Contact;
+export default QA;

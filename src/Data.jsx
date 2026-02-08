@@ -6,11 +6,12 @@ import member5 from './assets/member5.png';
 import member6 from './assets/member6.png';
 
 export const navbarLinks = [
-  { id: 1, text: 'About us', href: '#about-us' },
-  { id: 2, text: 'Services', href: '#services' },
-  { id: 3, text: 'Use Cases', href: '#use-cases' },
-  { id: 4, text: 'Pricing', href: '#pricing' },
-  { id: 5, text: 'Blog', href: '#blog' },
+  { id: 1, text: "Home", href: "/" },
+  { id: 2, text: "Contact", href: "/contact" },
+  { id: 3, text: 'About us', href: '/aboutus' },
+  { id: 4, text: 'Q&A', href: '/QA' },
+
+   
 ];
 
 export const workingProccess = [

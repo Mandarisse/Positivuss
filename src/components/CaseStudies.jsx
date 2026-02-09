@@ -4,7 +4,7 @@ import { MdOutlineArrowOutward } from 'react-icons/md';
 const CaseStudies = () => {
   return (
     <section className="mx-auto container px-6 py-12">
-      <Section 
+      <SectionHeading 
         text="Explore Real-Life Examples of Our Proven Digital Marketing Success through Our Case Studies"
         heading="Case Studies"
       />

@@ -6,7 +6,7 @@ const CaseStudies = () => {
     <section className="mx-auto container px-6 py-12">
       <SectionHeading
         text="Explore Real-Life Examples of Our Proven Digital Marketing Success through Our Case Studies"
-        heading="Client Success Stories"
+        heading="Our Client Success Stories "
       />
 
       <div className="my-12 flex flex-col lg:flex-row items-start bg-[#191A23] rounded-3xl p-12 lg:divide-x lg:divide-white gap-5">

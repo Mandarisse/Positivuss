@@ -22,5 +22,5 @@ jobs:
       - name: Install
         run: npm ci
 
-      - name: Test
-        run: npm run test
+      - name: Test (forced fail)
+        run: exit 1

@@ -91,7 +91,7 @@ const Services = () => {
           <div className="left flex flex-col gap-5">
             <h3 className="font-medium text-3xl">Let’s make things happen</h3>
             <p className="w-full md:w-1/2">
-              Contact us today to learn more about how our digital marketing
+              Contacts us today to learn more about how our digital marketing
               services can help your business grow and succeed online.
             </p>
             <Button

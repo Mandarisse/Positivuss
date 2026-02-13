@@ -78,7 +78,7 @@ const Navbar = () => {
               ))}
 
               <Button
-                text="Request a quote"
+                text="Request  quote"
                 className="border border-black hover:bg-black hover:text-white duration-300"
               />
             </ul>

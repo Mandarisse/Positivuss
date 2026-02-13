@@ -1,6 +1,6 @@
 import React from 'react';
 import logoImage from '../assets/Logo.png';
-import { navbarLinks } from '../data';
+import { navbarLinks } from '../Data';
 import SectionHeading from './ui/SectionHeading';
 import Button from './ui/Button';
 import { FaLinkedinIn } from 'react-icons/fa6';
